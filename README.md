@@ -2,4 +2,4 @@
 
 The built app is served at https://sharonguyone.github.io/gym/
 
-Source revision: 8261648a8c3f656f45cb91b79402c504d81802da. The source repository is private.
+Source revision: 6b6b96d00395f40e417cfb0337651c5f85c64bbc. The source repository is private.
